@@ -1,10 +1,4 @@
-﻿"""
-PyQt Animation Library
-﻿@author: Hengbin Yan
-@copyright: © 2015. All rights reserved.
-"""
-
-from collections import namedtuple
+﻿from collections import namedtuple
 import os
 try:
     from PyQt5 import QtGui, QtCore
